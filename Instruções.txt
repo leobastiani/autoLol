@@ -1,0 +1,6 @@
+Descompacte para usar.
+
+Shift + =: Edita os campeões, rotas e senha
+-: Mantém o LoL sempre aberto
+0: Pausa o programa
+9: Fecha o programa
